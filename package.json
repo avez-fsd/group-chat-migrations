@@ -1,0 +1,26 @@
+{
+  "name": "group-chat-migrations",
+  "version": "1.0.0",
+  "description": "group chat db migrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avez-fsd/group-chat-migrations.git"
+  },
+  "author": "Mohammad Avez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avez-fsd/group-chat-migrations/issues"
+  },
+  "homepage": "https://github.com/avez-fsd/group-chat-migrations#readme",
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.5",
+    "sequelize": "^6.35.1"
+  }
+}
